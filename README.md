@@ -1,5 +1,3 @@
-# a-league-analytics
-
 # A-League Analytics Dashboard
 
 ## Overview
