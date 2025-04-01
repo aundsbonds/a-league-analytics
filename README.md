@@ -7,7 +7,7 @@ TThe A League is statistically the second youngest league by average minutes in 
 
 This presents an opporunity for the A League to become the best league in the world for producing high quality youth prospects. This can benefit Australian football by generating stronger football prospects to follow the path to becoming a Socceroo, and also provide opportunity for A-League clubs to earn more lucrative transfer fees from overseas clubs - positioning Australia as an up and coming hotbed for youth football talent. 
 
-This is an interactive Dash web application for analyzing A-League player and team statistics, specifically for under 23 players.
+This is an interactive Dash web application for analysing A-League player and team statistics, specifically for under 23 players.
 
 ## Features
 - Visualise player performance metrics
