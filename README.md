@@ -3,7 +3,7 @@
 ## Overview
 TThe A League is statistically the second youngest league by average minutes in the world  https://aleagues.com.au/news/a-league-ranked-global-youth-stats-cies-serbian-superliga-latest-news/
 
-This presents an opporunity for the A League to become the best league in the world for producing high quality youth prospects. This can benefit Australian football by generating stronger football prospects to follow the path to becoming a Socceroo, and also provide opportunity for A-League clubs to earn more lucrative transfer fees from overseas clubs - positioning Australia as an up and coming hotbed for youth football talent. 
+This presents an opporunity for the A League to become the best league in the world for producing high quality youth prospects. This can benefit Australian football by generating stronger football prospects to follow the path to becoming a Socceroo, and also provide opportunity for A-League clubs to attract more lucrative transfer fees from overseas clubs which can strengthen club business models to reinvest into the game & position Australia as a leading producer of sought after youth football talent. 
 
 This is an interactive Dash web application for analysing A-League player and team statistics, specifically for under 23 players.
 
