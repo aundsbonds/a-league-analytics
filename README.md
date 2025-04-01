@@ -20,13 +20,9 @@ This is an interactive Dash web application for analyzing A-League player and te
 - Pandas
 - Plotly
 
-## Setup and Installation
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
-
 ## Data Source
-Player statistics from A-League season 2024/25
+Player statistics from A-League season 2024/25 
+https://fbref.com/en/comps/65/misc/A-League-Men-Stats
 
 ## Screenshots
 
