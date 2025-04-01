@@ -26,4 +26,6 @@ Player statistics from A-League season 2024/25
 https://fbref.com/en/comps/65/misc/A-League-Men-Stats
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/fd502043-1a12-4be4-97dd-71f911b74b0d)
+![image](https://github.com/user-attachments/assets/ead1fcf8-08ac-48dc-b557-61cf3b77b73d)
 
